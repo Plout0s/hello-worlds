@@ -33,3 +33,7 @@ Please make sure to update tests as appropriate.
 ## License
 
 <p align="center"><img src="https://i.stack.imgur.com/RJj4x.png" /></p>
+                                                                                          
+    
+
+* To make sure markdown is rendered correctly in the collapsed section...
